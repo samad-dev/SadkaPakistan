@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526797996310",
+    "project_id": "sadqapakistan-c1829",
+    "storage_bucket": "sadqapakistan-c1829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526797996310:android:76aa7f270e3319fba75037",
+        "android_client_info": {
+          "package_name": "com.sadqapak.pakistani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526797996310-4u2a55tau0p74la87oqtenr9o0cje9pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadqapak.pakistani",
+            "certificate_hash": "b3a51298833928933865ca2c7eecdcf481f26d79"
+          }
+        },
+        {
+          "client_id": "526797996310-j5g1343gk901gfh2tkserha4j1u0bhjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Tui57VTCNE-Mxevvy30gjoqH7C1hrMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526797996310-j5g1343gk901gfh2tkserha4j1u0bhjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
